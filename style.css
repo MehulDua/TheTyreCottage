@@ -11,8 +11,7 @@ html, body {
   background: #EEE5E9;
 }
 .head{
-  font-family: 'Bebas Neue', cursive;
-font-family: 'Outfit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 font-size:3rem;
 justify-content: center;
 display: flex;
